@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hyKxSTAtT7+hikKgsaf0uR9yZc5kD4/7V9TNk+C3RNU=",
+  "Source": "HALCYON SAP B1 Web API",
+  "BasePath": "_content/HALCYON SAP B1 Web API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

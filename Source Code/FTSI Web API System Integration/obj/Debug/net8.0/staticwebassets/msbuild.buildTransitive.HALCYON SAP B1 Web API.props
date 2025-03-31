@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HALCYON SAP B1 Web API.props" />
+</Project>
